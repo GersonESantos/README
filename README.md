@@ -58,3 +58,5 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida para ajudar os 
 - :gear: `Funcionalidade 3`: descrição da funcionalidade 3
 
 - :blush:
+
+ https://img.shields.io/badge/just%20the%20message-8A2BE2

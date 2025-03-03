@@ -67,6 +67,6 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida para ajudar os 
 
 
 <p align="center">
-<img loading="lazy" src="https://img.shields.io/badge/any_text-you_like-blue"/>
+<img loading="lazy" src="https://img.shields.io/badge/any_text-voce_like-blue"/>
 </p>
 

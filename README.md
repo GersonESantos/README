@@ -65,3 +65,8 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida para ajudar os 
 <img loading="lazy" src="https://img.shields.io/badge/just%20the%20message-8A2BE2"/>
 </p>
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+<p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/any_text-you_like-blue"/>
+</p>
+

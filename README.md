@@ -56,3 +56,5 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida para ajudar os 
 - :rocket: `Funcionalidade 2`: descrição da funcionalidade 2
 - :arrow_right: `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
 - :gear: `Funcionalidade 3`: descrição da funcionalidade 3
+
+- :blush:

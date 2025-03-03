@@ -48,7 +48,9 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida para ajudar os 
 </p>
 
 ---
-# :hammer: Funcionalidades do Projeto
+
+# #funcionalidades-e-demonstração-da-aplicação
+ :hammer: Funcionalidades do Projeto
 
 - :white_check_mark: `Funcionalidade 1`: descrição da funcionalidade 1
 - :rocket: `Funcionalidade 2`: descrição da funcionalidade 2
